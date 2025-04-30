@@ -1,0 +1,14 @@
+texts/about.txt
+user_data
+reminders
+bans
+src/__pycache__
+utils/__pycache__
+
+.idea
+__pycache__
+*.log
+venv
+
+har_and_cookies
+generated_images/

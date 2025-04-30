@@ -1,0 +1,7 @@
+*1.2.0: First Update* 🔧:
+Analyzing Images 🖼,
+Excel Files, Pdfs update fully working 📊📄,
+History set Update 📚,
+Enhanced work of AI 🤖,
+History analysis 🕒,
+Bug & Code fix 🐞🔧

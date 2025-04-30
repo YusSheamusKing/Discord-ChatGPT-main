@@ -1,0 +1,4 @@
+PRINCIPAL INSTRUCTION *MASSIVE* UPDATE ----> 5.2.0
+Updates Involve /set_Instruction  Basically now users can set any instructions for AI and AI will do everything according to instructions!!!💡📋✅
+/reset Instruction all instructions will be reseted  And AI wont more respond with according instructions🙅🏻‍♂📋
+And lastly all instructions are professionally set in the history making the instructions stand for long time

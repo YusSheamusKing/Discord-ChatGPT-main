@@ -1,0 +1,2 @@
+Mini Update 5.1.2
+Slash Commands got all fixed and now you can also view slash info to all commands

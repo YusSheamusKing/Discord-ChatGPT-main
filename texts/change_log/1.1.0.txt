@@ -1,0 +1,6 @@
+*1.1.0 Official Release* 🎉:
+Fully Chatting 💬,
+Specific Channel functionality 📡,
+DM messaging 📩,
+Model Gemini corporation
+Bug & Code Fixed!

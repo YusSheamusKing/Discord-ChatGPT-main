@@ -1,0 +1,8 @@
+*New Version === Leonardo's Calendar Update 🗓:*
+
+*2.1.0 Drawing Images Update* 🎨:
+Professional drawing of images 🖌,
+Multi functionality ⚙,
+Multiple Models of Drawing (Midjourney, Dall, Flux) 🎭,
+DM bug fixes 🐛💬,
+Bug & Code fixes 🐞🔧

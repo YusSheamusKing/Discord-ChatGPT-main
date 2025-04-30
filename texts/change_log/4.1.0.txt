@@ -1,0 +1,5 @@
+Update ---->>> 4.1.0 History Journal Update 📖!!! :
+Features :
+History Professional Scan : Now Bot can fully scan full history of chats providing long-term and unbelievable experience for users!🩻
+/history Command , bot now can export all your history chats making it easier for user📩
+Multi-language support , history could be send in various file form whether it is json , dockerfile, python and etc💭

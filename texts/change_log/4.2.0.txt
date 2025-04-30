@@ -1,0 +1,2 @@
+Update ----> 4.2.0 Say No To History ❌📜
+/delete Fully deletes all history by the request of the user making for them essential to manage their history and also confirming it✅

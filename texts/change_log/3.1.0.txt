@@ -1,0 +1,5 @@
+API key Revolution, Models, Setup ---> 3.1.0  :
+New Update : You can choose any model for chatting with AI 📌
+Multifunctional choose of AI type and the Model ✨
+Working chat with the chosen Model💬
+No api key need 🔑❌

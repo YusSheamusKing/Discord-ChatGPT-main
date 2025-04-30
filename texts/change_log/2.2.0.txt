@@ -1,0 +1,4 @@
+*2.2.0 Reminder Update* ⏰: Now you can have fully working reminders ⏳,
+Time setup: day, hour, minute, offset 📅⏰
+And the reminder itself 📲,
+DM message about the reminders truly working for all! 📩
