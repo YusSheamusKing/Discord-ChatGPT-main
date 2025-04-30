@@ -5,8 +5,6 @@
 ## All providers work and are tested in the RU region. Your experience may vary!
 ## Works and tested correctly on Python version 3.11.5
 
-* **This is a heavily modified version of the bot:** [Zero6992/chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot)
-* **Special thanks to Zero6992 for the open-source project <3**
 
 ---
 
